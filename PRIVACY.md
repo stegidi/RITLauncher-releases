@@ -4,7 +4,7 @@
 
 **Protezione.** Le password sono cifrate con Windows DPAPI e sono leggibili solo dal tuo utente Windows.
 
-**Uso e destinatari.** I dati servono solo per accedere ai server RIT che scegli. Trader ID e password vengono inseriti nel programma RIT, che li invia al server selezionato. L'app verifica inoltre se ogni server risponde. Lo sviluppatore non riceve questi dati e l'app non contiene pubblicità né statistiche di utilizzo.
+**Uso e destinatari.** I dati servono solo per accedere ai server RIT che scegli. Trader ID e password vengono inseriti nel programma RIT, che li invia al server selezionato. Se attivi la lettura del case con le DMA su un server, l'app invia direttamente a quel server, senza cifratura, il trader ID e la password dell'account che hai scelto, all'apertura e poi ogni 10 minuti. L'app verifica inoltre se ogni server risponde. Lo sviluppatore non riceve questi dati e l'app non contiene pubblicità né statistiche di utilizzo.
 
 **Microsoft Store.** Download e aggiornamenti passano dal Microsoft Store, che tratta i propri dati secondo l'informativa di Microsoft.
 
